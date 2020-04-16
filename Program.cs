@@ -6,6 +6,7 @@ namespace ReverseArray
     {
         public static void Main()
         {
+            //Takes char[] and writes the reverse of it 
             char[] phrase = new char[] { 'h','e','l','l','o' };
 
             for (int i = phrase.Length - 1; i >= phrase.Length / 2; i--)
