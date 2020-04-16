@@ -10,6 +10,7 @@ namespace ArrayDesc
             Desc(array);
         }
 
+        //Takes an int[] and prints it in descending order
         public static void Desc(int[] arr)
         {
             int temp;
