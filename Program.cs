@@ -15,6 +15,7 @@ namespace ReverseArray
                 phrase[phrase.Length - 1 - i] = temp;
             }
             Console.Write(phrase);
+            //Output is 'olleh'
         }
     }
 }
